@@ -156,3 +156,7 @@ User Management
 - Secure cookie handling
 
 This project demonstrates a production-ready parcel delivery system with complete functionality, robust security, and excellent code organization suitable for real-world deployment.
+video presentation:https://drive.google.com/file/d/1me70ohB-nc2uLDZABgKWL68o9PnGVDti/view?usp=drivesdk
+backend deployment link:https://parcel-delivery-api-seven.vercel.app/ 
+ 
+
